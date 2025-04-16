@@ -1,6 +1,5 @@
-
 import { useState } from 'react';
-import { Clipboard, Copy, Eye, EyeOff, Info, Lock } from 'lucide-react';
+import { Clipboard, Copy, Eye, EyeOff, Info, Lock, Wallet } from 'lucide-react';
 import { cn } from '@/lib/utils';
 import { Button } from '@/components/ui/button';
 import { useToast } from '@/components/ui/use-toast';
